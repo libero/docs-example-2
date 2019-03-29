@@ -1,2 +1,4 @@
 markdown: kramdown
 remote_theme: libero/jekyll-theme
+plugins:
+  - jekyll-remote-theme
